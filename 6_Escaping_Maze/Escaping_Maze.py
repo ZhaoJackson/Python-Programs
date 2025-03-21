@@ -24,14 +24,3 @@ while not at_goal():
         move()
     else: # turn left once there is wall on right and front
         turn_left()
-
-
-
-
-
-
-
-
-
-
-
