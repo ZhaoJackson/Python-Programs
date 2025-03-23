@@ -51,22 +51,3 @@ while should_continue:
     else: # if stop, the while loop condition is false, then it will stop
         should_continue = False
         print("Goodbye:)")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
